@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> let's learn css class </title>
+<style>
+.center {
+text-align: centre;
+color: red;
+background-color: yellow;
+}
+</style>
+</head>
+<body>
+<h1 class="center"> let's learn css class </h1>
+<p class="center"> this para will be now in red with background color yellow </p>
+</body>
+</html>

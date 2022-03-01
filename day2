@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>  selectors </title>
+<style>
+p {
+text-align: center;
+color: red;
+background-color: yellow;
+}
+</style>
+</head>
+<body>
+<h1> lets learn selectors </h1>
+<p> every para will be printed</p>
+<p> lets try this! </p>
+</body>
+</html>

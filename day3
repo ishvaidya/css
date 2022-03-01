@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> selector id </title>
+<style>
+#para1 {
+text-align: center;
+color: red;
+background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<p id="para1"> lets learn id selector </p>
+<p> this para will not be considered by style tag </p>
+</body>
+</html>
